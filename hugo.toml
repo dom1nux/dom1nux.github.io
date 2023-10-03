@@ -1,0 +1,9 @@
+baseURL = 'https://dom1nux.github.io/'
+languageCode = 'es-pe'
+theme = "anatole"
+enableEmoji = true
+
+[params]
+title = "dom1nux LAB"
+author = 'dom1nux'
+description = 'Musica, tecnologia y libros'
